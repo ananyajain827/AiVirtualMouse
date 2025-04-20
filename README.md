@@ -98,7 +98,8 @@ python virtual_mouse.py
 ## 🙋 Author
 Ananya
 👩‍🎓 B.Tech Computer Science | 💻 Developer 
-🔗 [LinkedIn](https://www.linkedin.com/in/ananya-jain-01104427b/) • 🌐 Portfolio
+
+🔗 [LinkedIn](https://www.linkedin.com/in/ananya-jain-01104427b/) 
 
 If you like this project, don't forget to ⭐ the repository and share it!
 
